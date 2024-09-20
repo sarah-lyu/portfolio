@@ -8,10 +8,12 @@ https://github.dev/sarah-lyu/portfolio
 ## About Me
 
 I'm a business analytics student, I had professional experiences in 
--- Marketing
--- Sales
--- Consulting
--- Project Management
+- Marketing
+- Sales
+- Consulting
+- Project Management
+
+I love developing my skills and sharing knowledge with others.
 
 ## Projects
 
